@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "username": "alice",
+      "password": "password123",
+      "roles": { "User": 2001 }
+    },
+    {
+      "username": "bob",
+      "password": "securepass",
+      "roles": { "User": 2001 }
+    },
+    {
+      "username": "charlie",
+      "password": "charliepwd",
+      "roles": { "User": 2001 }
+    }
+  ]
+}
